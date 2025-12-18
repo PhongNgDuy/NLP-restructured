@@ -1,4 +1,4 @@
-# Lab 4: Word Embeddings with Word2Vec
+# Lab 3: Word Embeddings with Word2Vec
 
 ## Mô tả
 - **Task 1**: Triển khai word embeddings với lớp `WordEmbedder`.
